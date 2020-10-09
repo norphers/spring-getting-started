@@ -4,6 +4,6 @@ First web app using Spring.
 
 dev branch;
 - documentation: specifications about the exercise (catalan language)
-- exercise: java program
+- exercise: backend using spring framework and basic frontend (html-js)
 
-*Program written during my training at the IT Academy, April 2020.
+*Web app written during my training at the IT Academy, April 2020.
